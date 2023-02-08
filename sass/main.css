@@ -63,6 +63,10 @@ img {
   height: 350px;
 }
 
+.btn {
+  background-color: black;
+}
+
 .footer__title {
   font-family: Aboreto;
   color: black;
