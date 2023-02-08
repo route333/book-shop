@@ -1,0 +1,81 @@
+body {
+  position: relative;
+}
+
+ul {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h3, h2, p {
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.header {
+  background-color: darkgray;
+  display: flex;
+}
+
+.header__title {
+  margin-left: 100px;
+  font-family: aboreto;
+  margin-right: 10px;
+}
+
+.header__input {
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+  margin-left: 450px;
+}
+
+.hero__title {
+  font-family: Aboreto;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  border-bottom: solid gray 1px;
+}
+
+.card {
+  background-color: darkgrey;
+}
+
+.cards__list {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin-top: 100px;
+}
+
+.card-img-top {
+  height: 350px;
+}
+
+.footer__title {
+  font-family: Aboreto;
+  color: black;
+  border-top: solid 1px gray;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.footer__text {
+  display: flex;
+  justify-content: center;
+  color: darkgrey;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=main.css.map */

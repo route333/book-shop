@@ -1,0 +1,17 @@
+.header{
+    background-color: darkgray;
+    display: flex;
+}
+
+.header__title{
+    margin-left: 100px;
+    font-family: aboreto;
+    margin-right: 10px;
+}
+
+.header__input{
+    display: flex;
+    align-items: center;
+    margin-right: 100px;
+    margin-left: 450px;
+}
